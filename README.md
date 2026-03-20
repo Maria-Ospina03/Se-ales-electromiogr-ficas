@@ -1,1 +1,1 @@
-# Se-ales-electromiogr-ficas
+# Señales electromiográficas (EMG)
