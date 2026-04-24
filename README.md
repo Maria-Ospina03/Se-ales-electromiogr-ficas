@@ -51,7 +51,7 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 ##### Gráfica de la señal de contracción normal
 <img src="GraficaB0.jpeg" width="500">  
 
-##### Tabla de frecuencias por segmento
+##### Tabla de frecuencias por contracción
 <div align="center">
   
 |CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
@@ -70,6 +70,9 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 ##### Gráfica de la señal de contracción en fatiga y su espectro de frecuencia
 
 
+<img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
+
+
 |CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
 |:-----:|:-----:|:-----:|:-----:|
 |1     |59.00     |36.00     |24.00|     
@@ -78,8 +81,6 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 |4     |72.77     |45.00     |42.00   |       
 |5     |68.84     |42.00     |26.00   |
 
-
-<img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
 
 --------------------------------------------------------------------
 ### Parte C Análisis Espectral mediante FFT
