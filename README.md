@@ -64,7 +64,8 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 <img src="GraficaB0.jpeg" width="500">  
 
 ##### Gráfics del espectro de frecuencia de los segmentos de la señal de contraccióne normal
-
+<img src="B1.jpeg" width="200"> <img src="B2.jpeg" width="200"><img src="B3.jpeg" width="200">
+<img src="B4.jpeg" width="200"> <img src="B5.jpeg" width="200"> 
 ##### Gráfica de la señal de contracción en fatiga y su espectro de frecuencia
 <img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
 
