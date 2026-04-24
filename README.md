@@ -48,13 +48,16 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 </p>
 
 ### Resultados obtenidos  
-##### Gráfica de la señal de contracción normal
-<img src="GraficaB0.jpeg" width="500">  
+##### Contracción normal 
+<img src="GraficaB0.jpeg" width="400"> <img src="B1.jpeg" width="380"> 
+<img src="B2.jpeg" width="380"> <img src="B3.jpeg" width="380"> 
+<img src="B4.jpeg" width="400">        <img src="B5.jpeg" width="400"> 
 
-##### Tabla de frecuencias por contracción
+
+##### Tabla de frecuencias por segmento
 <div align="center">
   
-|CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
+|SEGMENTO [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
 |:-----:|:-----:|:-----:|:-----:|
 |1     |164.12     |149.00     |30.00|     
 |2     |149.06     |133.00     |120.00 |         
@@ -63,24 +66,22 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 |5     |150.06     |154.00     |35.00   |
 </div>
 
-##### Gráfics del espectro de frecuencia de los segmentos de la señal de contraccióne normal
-<img src="B1.jpeg" width="300"> <img src="B2.jpeg" width="300"><img src="B3.jpeg" width="300">
+##### Gráfica de la señal de contracción en fatiga
+<img src="GraficaB2.jpeg" width="380">  <img src="B15.jpeg" width="380">  
+<img src="B14.jpeg" width="380"> <img src="B13.jpeg" width="380"> 
+<img src="B12.jpeg" width="400"> <img src="B11.jpeg" width="400"> 
 
-<img src="B4.jpeg" width="300"> <img src="B5.jpeg" width="300"> 
-##### Gráfica de la señal de contracción en fatiga y su espectro de frecuencia
-
-
-<img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
-
-
-Tabla de frecuencias por contracción
-|CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
+##### Tabla de frecuencias por segmento
+<div align="center">
+  
+|SEGMENTO [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
 |:-----:|:-----:|:-----:|:-----:|
 |1     |59.00     |36.00     |24.00|     
 |2     |73.31     |51.00     |43.00 |         
-|3     |61.84     |41.00     |27.00  |        
+|3     |61.64     |41.00     |27.00  |        
 |4     |72.77     |45.00     |42.00   |       
 |5     |68.84     |42.00     |26.00   |
+</div>
 
 
 --------------------------------------------------------------------
