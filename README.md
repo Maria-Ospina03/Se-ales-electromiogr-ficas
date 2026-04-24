@@ -48,6 +48,9 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 </p>
 
 ### Resultados obtenidos  
+##### Gráfica de la señal de contraccióne normal
+<img src="GraficaB0.jpeg" width="500">  
+
 ##### Tabla de frecuencias por segmento
 <div align="center">
   
@@ -60,12 +63,10 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 |5     |150.06     |154.00     |35.00   |
 </div>
 
-##### Gráfica de la señal de contraccióne normal
-<img src="GraficaB0.jpeg" width="500">  
-
 ##### Gráfics del espectro de frecuencia de los segmentos de la señal de contraccióne normal
-<img src="B1.jpeg" width="200"> <img src="B2.jpeg" width="200"><img src="B3.jpeg" width="200">
-<img src="B4.jpeg" width="200"> <img src="B5.jpeg" width="200"> 
+<img src="B1.jpeg" width="300"> <img src="B2.jpeg" width="300"><img src="B3.jpeg" width="300">
+
+<img src="B4.jpeg" width="300"> <img src="B5.jpeg" width="300"> 
 ##### Gráfica de la señal de contracción en fatiga y su espectro de frecuencia
 <img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
 
@@ -108,3 +109,27 @@ Deporte, vol. 32, no. 1, pp. 36–43, 2015.
 
 
 </div>
+Segmento 1
+ - Frecuencia Media (MNF): 59.00 Hz
+ - Frecuencia Mediana (MDF): 36.00 Hz
+ - Frecuencia Pico: 24.00 Hz
+
+Segmento 2
+ - Frecuencia Media (MNF): 73.31 Hz
+ - Frecuencia Mediana (MDF): 51.00 Hz
+ - Frecuencia Pico: 43.00 Hz
+
+Segmento 3
+ - Frecuencia Media (MNF): 61.84 Hz
+ - Frecuencia Mediana (MDF): 41.00 Hz
+ - Frecuencia Pico: 27.00 Hz
+
+Segmento 4
+ - Frecuencia Media (MNF): 72.77 Hz
+ - Frecuencia Mediana (MDF): 45.00 Hz
+ - Frecuencia Pico: 42.00 Hz
+
+Segmento 5
+ - Frecuencia Media (MNF): 68.84 Hz
+ - Frecuencia Mediana (MDF): 42.00 Hz
+ - Frecuencia Pico: 26.00 Hz
