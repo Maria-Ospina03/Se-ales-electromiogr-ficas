@@ -123,27 +123,4 @@ Deporte, vol. 32, no. 1, pp. 36–43, 2015.
 
 
 </div>
-Segmento 1
- - Frecuencia Media (MNF): 59.00 Hz
- - Frecuencia Mediana (MDF): 36.00 Hz
- - Frecuencia Pico: 24.00 Hz
 
-Segmento 2
- - Frecuencia Media (MNF): 73.31 Hz
- - Frecuencia Mediana (MDF): 51.00 Hz
- - Frecuencia Pico: 43.00 Hz
-
-Segmento 3
- - Frecuencia Media (MNF): 61.84 Hz
- - Frecuencia Mediana (MDF): 41.00 Hz
- - Frecuencia Pico: 27.00 Hz
-
-Segmento 4
- - Frecuencia Media (MNF): 72.77 Hz
- - Frecuencia Mediana (MDF): 45.00 Hz
- - Frecuencia Pico: 42.00 Hz
-
-Segmento 5
- - Frecuencia Media (MNF): 68.84 Hz
- - Frecuencia Mediana (MDF): 42.00 Hz
- - Frecuencia Pico: 26.00 Hz
