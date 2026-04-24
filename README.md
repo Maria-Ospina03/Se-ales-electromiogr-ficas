@@ -76,19 +76,19 @@ En términos de señal sEMG, este fenómeno se refleja en la disminución del co
 - La electromiografía de superficie (sEMG) se consolida como una herramienta eficaz y no invasiva para la detección de fatiga muscular, aunque su aplicación en entornos reales depende del control de ruido y de una adecuada instrumentación.
 - En conjunto, los resultados demuestran que el procesamiento digital de señales aplicado a sEMG es una estrategia válida para el monitoreo del esfuerzo muscular y la prevención de lesiones en contextos clínicos y deportivos.
 ### Referencias
-
-
-```python
-
-```
-|     |     |     |     |     |
-|-----|-----|-----|-----|-----|
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
-|     |     |     |     |     |
+[1] Y. Tan, Y. Liu, R. Ye, H. Xu, W. Nie, J. Lu, B. Zhang, C. Wang y B. He, 
+“Change of bio-electric interferential currents of acute fatigue and recovery 
+in male sprinters,” Sports Medicine and Health Science, vol. 2, no. 1, pp. 1
+6, 2020. https://doi.org/10.1016/j.smhs.2020.02.004.  
+[2] K. Sahlin, “Metabolic factors in fatigue,” Sports Medicine: An International 
+Journal of Applied Medicine and Science in Sport and Exercise, vol. 13, no. 
+2, pp. 99–107, 1992. https://doi.org/10.2165/00007256-199213020-00005.  
+[3] D. Constantin-Teodosiu y D. Constantin, “Molecular mechanisms of muscle 
+fatigue,” International Journal of Molecular Sciences, vol. 22, no. 21, art. 
+11587, 2021. https://doi.org/10.3390/ijms222111587.  
+[4] A. Urdampilleta, I. Armentia, S. Gómez-Zorita, J. M. Martínez-Sanz y J. 
+Mielgo-Ayuso, “La fatiga muscular en los deportistas: Métodos físicos, nutricionales y farmacológicos para combatirla,” Archivos de Medicina del 
+Deporte, vol. 32, no. 1, pp. 36–43, 2015. 
 
 
 </div>
