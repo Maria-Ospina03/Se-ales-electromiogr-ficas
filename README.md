@@ -53,6 +53,7 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 ##### Gráfica de la señal de contracción en fatiga y su espectro de frecuencia
 <img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
 
+--------------------------------------------------------------------
 ### Parte C Análisis Espectral mediante FFT
 Finalmente, se aplicó la Transformada Rápida de Fourier (FFT) a cada contracción de la señal real para obtener el espectro de amplitud. Al comparar los espectros de las primeras contracciones con los de las últimas, se pudo identificar visual y numéricamente la reducción del contenido de alta frecuencia y el desplazamiento del pico espectral hacia las bajas frecuencias. Este análisis confirmó la utilidad de la FFT como herramienta diagnóstica para monitorear el esfuerzo sostenido y la fatiga muscular de manera objetiva.
 
@@ -61,9 +62,19 @@ Finalmente, se aplicó la Transformada Rápida de Fourier (FFT) a cada contracci
 </p>
 
 
-### Análisis de resultados y conclusiones
-
-
+### Análisis y discusión de resultados
+- La fatiga muscular se produce principalmente por la acumulación de metabolitos como el lactato y la disminución de ATP, lo que reduce la capacidad del músculo para sostener contracciones eficientes.
+En términos de señal sEMG, este fenómeno se refleja en la disminución del contenido de altas frecuencias, el desplazamiento del espectro hacia bajas frecuencias y la reducción progresiva de la frecuencia media y mediana. Lo cual ocurre debido a cambios en la velocidad de conducción de las fibras musculares y en el reclutamiento de unidades motoras.
+- En la parte A se evidenciaron resultados clave como el correcto funcionamiento de la segmentación, un cálculo estable de frecuencia media y mediana y la ausencia de variaciones fisiológicas reales. Lo anterior permite estrablecer una base relativamente confiable, asegurando que cualquier variación posterior en señales reales se puede deber a fenómenos fisiológicos y no a errores en el procesamiento.
+- En la parte B se evidenció la disminusión progresiva de la frecuencia media y de la frecuencia mediana. Estos cambios confirman la aparición de fatiga asociada a la disminución del ATP y a la reducción de la velocidad de conducción muscular. Además el filtro pasa-banda utilizado permitió eliminar en su mayoría ruido de movimiento (bajas frecuencias) e interferencias eléctricas (altas frecuencias).
+- La trasformada rápida de fourier permotió analizar la distribución espectral de la señal
+### Conclusiones
+- La frecuencia media y la frecuencia mediana de la señal sEMG se validan como indicadores confiables de la fatiga muscular, evidenciando una disminución progresiva asociada a cambios metabólicos en el músculo.
+- El análisis en el dominio de la frecuencia mediante la Transformada Rápida de Fourier (FFT) permite identificar de manera objetiva el desplazamiento espectral hacia bajas frecuencias, proporcionando información que no es observable en el dominio del tiempo.
+- El filtrado pasa-banda (20–450 Hz) resulta fundamental para garantizar la calidad de la señal, al eliminar interferencias y artefactos que pueden distorsionar los indicadores frecuenciales.
+- La comparación entre señales simuladas y reales confirma que las variaciones observadas en los datos experimentales corresponden a fenómenos fisiológicos y no a errores del procesamiento digital.
+- La electromiografía de superficie (sEMG) se consolida como una herramienta eficaz y no invasiva para la detección de fatiga muscular, aunque su aplicación en entornos reales depende del control de ruido y de una adecuada instrumentación.
+- En conjunto, los resultados demuestran que el procesamiento digital de señales aplicado a sEMG es una estrategia válida para el monitoreo del esfuerzo muscular y la prevención de lesiones en contextos clínicos y deportivos.
 ### Referencias
 
 
