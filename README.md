@@ -9,8 +9,11 @@
 ## Introducción
 ## Desarrollo de la práctica
 ### Parte A
+![Diagrama de flujo parte A](ParteA.png)
 ### Parte B
+![Diagrama de flujo parte B](ParteB.png)
 ### Parte C
+![Diagrama de flujo parte C](ParteC.png)
 ### Análisis de resultados y conclusiones
 ### Referencias
 
