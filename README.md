@@ -73,6 +73,7 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 <img src="GraficaB2.jpeg" width="500">  <img src="GraficaB3.jpeg" width="500">
 
 
+Tabla de frecuencias por contracción
 |CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
 |:-----:|:-----:|:-----:|:-----:|
 |1     |59.00     |36.00     |24.00|     
