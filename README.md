@@ -22,7 +22,8 @@ En la primera fase, se utilizó un generador de señales biológicas configurado
 </p>
 
 ### Resultados obtenidos
-
+<p align="center">
+  
 ##### Tabla de frecuencias por contracción
 |CONTRACCIÓN [-]     |FRECUENCIA MEDIA [Hz]     |FRECUENCIA MEDIANA [Hz]     |    
 |-----|-----|-----|
@@ -31,6 +32,10 @@ En la primera fase, se utilizó un generador de señales biológicas configurado
 |3     |253.80     |124.00     |          
 |4     |251.23     |123.00     |          
 |5     |249.48     |122.00     |                
+
+##### Gráfica de la señal emulada por el generador de señales
+  <img src="GraficaA.jpeg" alt="Gráfica parte A" width="500">
+</p>
 
 ------------------------------------------------------------------------------------
 ### Parte B Captura de Señal Real y Detección de Fatiga
