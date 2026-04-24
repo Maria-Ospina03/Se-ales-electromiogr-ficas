@@ -49,10 +49,9 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 
 ### Resultados obtenidos  
 #### - Contracción normal 
-<img src="GraficaB0.jpeg" width="500"> <img src="B1.jpeg" width="450"> 
-<img src="B2.jpeg" width="450"> <img src="B3.jpeg" width="450"> 
-<img src="B4.jpeg" width="450">        <img src="B5.jpeg" width="450"> 
-
+<p align="center">
+<img src="GraficaB0.jpeg" width="800"> 
+</p>
 
 ##### Tabla de frecuencias por segmento
 <div align="center">
@@ -66,10 +65,12 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 |5     |150.06     |154.00     |35.00   |
 </div>
 
+
+  
 #### - Contracción en fatiga
-<img src="GraficaB2.jpeg" width="500">  <img src="B15.jpeg" width="450">  
-<img src="B14.jpeg" width="450"> <img src="B13.jpeg" width="450"> 
-<img src="B12.jpeg" width="450"> <img src="B11.jpeg" width="450"> 
+<p align="center">
+<img src="GraficaB2.jpeg" width="800">
+</p>
 
 ##### Tabla de frecuencias por segmento
 <div align="center">
@@ -91,6 +92,16 @@ Finalmente, se aplicó la Transformada Rápida de Fourier (FFT) a cada contracci
 <p align="center">
   <img src="ParteC.png" alt="Diagrama de flujo parte C" width="800">
 </p>
+
+#### - Contracción normal 
+<img src="B1.jpeg" width="450"> 
+<img src="B2.jpeg" width="450"> <img src="B3.jpeg" width="450"> 
+<img src="B4.jpeg" width="450">        <img src="B5.jpeg" width="450"> 
+
+#### - Contracción en fatiga
+<img src="B15.jpeg" width="450">  
+<img src="B14.jpeg" width="450"> <img src="B13.jpeg" width="450"> 
+<img src="B12.jpeg" width="450"> <img src="B11.jpeg" width="450"> 
 
 
 ### Análisis y discusión de resultados
