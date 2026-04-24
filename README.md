@@ -54,7 +54,7 @@ Se realizó la captura de señales sEMG reales colocando electrodos de superfici
 ##### Tabla de frecuencias por segmento
 <div align="center">
   
-|SEGMENTO [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
+|CONTRACCIÓN [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
 |:-----:|:-----:|:-----:|:-----:|
 |1     |164.12     |149.00     |30.00|     
 |2     |149.06     |133.00     |120.00 |         
